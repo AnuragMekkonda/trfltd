@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T08:53:04.973Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Uh1QfWGknTqCV_X9XIVP" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T07:41:55.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="B-598IBPOm3DKDDZsbU9" version="17.2.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1038" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,13 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="cIAM / Azure AD B2C" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="240" width="900" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="hlt09VVeZTAN9zJdRHb2-1" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_AD_B2C.svg;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="60" y="72" width="50" height="46" as="geometry" />
+        </mxCell>
         <mxCell id="4QTbr39Vmrki6_ZiZRFC-2" value="HCP Registration / Sign Up" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="320" y="97" width="320" height="453" as="geometry" />
         </mxCell>
-        <mxCell id="sI54Ek6F-E_c9Gbfys1Q-1" value="Sign-In " style="swimlane;" vertex="1" parent="1">
+        <mxCell id="sI54Ek6F-E_c9Gbfys1Q-1" value="Sign-In " style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="640" y="97" width="210" height="453" as="geometry" />
         </mxCell>
       </root>
