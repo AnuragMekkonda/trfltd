@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T08:15:41.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="WFNHhjbfxmjPxmZLmJ4N" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T08:55:03.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="oWol8sngiUAIS_psRn5v" version="17.4.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1038" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
             <mxPoint x="10" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AMraHzwrmfH2PueiqlA4-8" value="johndoe" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;fontSize=10;" vertex="1" parent="AMraHzwrmfH2PueiqlA4-4">
+        <mxCell id="AMraHzwrmfH2PueiqlA4-8" value="xyzabc@xxxxx.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;fontSize=10;" vertex="1" parent="AMraHzwrmfH2PueiqlA4-4">
           <mxGeometry width="150" height="25" relative="1" as="geometry">
             <mxPoint x="10" y="60" as="offset" />
           </mxGeometry>
@@ -104,12 +104,12 @@
         </mxCell>
         <mxCell id="AMraHzwrmfH2PueiqlA4-14" value="New User" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;" vertex="1" parent="AMraHzwrmfH2PueiqlA4-4">
           <mxGeometry y="1" width="150" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="-70" as="offset" />
+            <mxPoint x="20" y="-71" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AMraHzwrmfH2PueiqlA4-15" value="SIGN UP" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="AMraHzwrmfH2PueiqlA4-4">
-          <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
-            <mxPoint x="20" y="-50" as="offset" />
+        <mxCell id="AMraHzwrmfH2PueiqlA4-15" value="REGISTER" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="AMraHzwrmfH2PueiqlA4-4">
+          <mxGeometry y="1" width="90" height="30" relative="1" as="geometry">
+            <mxPoint x="17" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sI54Ek6F-E_c9Gbfys1Q-1" value="Sign-In " style="swimlane;" parent="1" vertex="1" collapsed="1">
